@@ -1,0 +1,7 @@
+requests==2.31.0
+selenium==4.13.0
+selenium-stealth==1.0.6
+beautifulsoup4==4.12.2
+Flask==3.0.0
+fs==2.4.16
+urllib3==2.0.5
